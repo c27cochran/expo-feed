@@ -5924,9 +5924,9 @@ mkdirp@*, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.1:
     minimist "0.0.8"
 
 moment@2.x.x, moment@^2.10.6, moment@^2.22.2:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 morgan@^1.9.0:
   version "1.9.1"
@@ -6923,10 +6923,10 @@ react-lifecycles-compat@^3.0.0:
   resolved "https://registry.yarnpkg.com/react-lifecycles-compat/-/react-lifecycles-compat-3.0.4.tgz#4f1a273afdfc8f3488a8c516bfda78f872352362"
   integrity sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==
 
-react-native-activity-feed-core@0.8.17:
+"react-native-activity-feed-core@https://github.com/c27cochran/react-native-activity-feed":
   version "0.8.17"
-  resolved "https://registry.yarnpkg.com/react-native-activity-feed-core/-/react-native-activity-feed-core-0.8.17.tgz#3954a08abad5b1e4f1e358c463a0d47233f00f08"
-  integrity sha512-h6+DDCxUVDuvsaoUVqyVSk0aIVljmQThpWOZHIuyE3UCIpKn/ul3VKAhd4DJdYLyE37w/9earkuGNGxjdb7rQg==
+  uid "7d2ee1cf4e42552e4abcdb4f85857632cd01ff7c"
+  resolved "https://github.com/c27cochran/react-native-activity-feed#7d2ee1cf4e42552e4abcdb4f85857632cd01ff7c"
   dependencies:
     es6-symbol "^3.1.1"
     eslint-plugin-babel "^5.3.0"
